@@ -4,7 +4,7 @@
 
 | Serial number |       Module name        |    Module description    |                             docs                              | status |
 |:-------------:|:------------------------:|:------------------------:|:-------------------------------------------------------------:|:------:|
-|       1       | zero-spring-annotations  | zero-spring-annotations  | [zero-spring-statemachine ](zero-spring-statemachine/HELP.md) |   ✅    |
+|       1       | zero-spring-annotations  | zero-spring-annotations  |  [zero-spring-annotations ](zero-spring-annotations/HELP.md)  |   ✅    |
 |       2       | zero-spring-statemachine | zero-spring-statemachine | [zero-spring-statemachine ](zero-spring-statemachine/HELP.md) |   ✅    |
 
 # 🔗 Links
